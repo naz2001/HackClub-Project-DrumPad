@@ -1,1 +1,1 @@
-# HackClub-Project-DrumPad
+# Drum Pad - HackClub Project 
